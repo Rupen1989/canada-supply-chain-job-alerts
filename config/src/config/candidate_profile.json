@@ -1,0 +1,117 @@
+{
+  "target_roles": [
+    "Supply Chain Manager",
+    "Senior Supply Chain Manager",
+    "Logistics Manager",
+    "Senior Logistics Manager",
+    "Distribution Manager",
+    "Inventory Manager",
+    "Warehouse Manager",
+    "Operations Manager",
+    "Materials Manager",
+    "Procurement Manager",
+    "Supply Chain Operations Manager",
+    "Distribution Operations Manager"
+  ],
+
+  "experience_keywords": {
+    "leadership": [
+      "team leadership",
+      "people management",
+      "staff management",
+      "cross-functional leadership",
+      "management",
+      "supervisor",
+      "direct reports"
+    ],
+
+    "supply_chain": [
+      "supply chain",
+      "logistics",
+      "distribution",
+      "warehouse",
+      "inventory",
+      "materials",
+      "procurement",
+      "transportation",
+      "3PL",
+      "third party logistics",
+      "fulfillment",
+      "S&OP"
+    ],
+
+    "inventory": [
+      "inventory management",
+      "inventory control",
+      "inventory accuracy",
+      "inventory turns",
+      "cycle counting",
+      "stock management",
+      "demand planning",
+      "forecast accuracy"
+    ],
+
+    "operations": [
+      "operations management",
+      "warehouse operations",
+      "distribution operations",
+      "process improvement",
+      "continuous improvement",
+      "KPI",
+      "OTIF",
+      "fill rate",
+      "service level"
+    ],
+
+    "technology": [
+      "ERP",
+      "WMS",
+      "SAP",
+      "Deacom",
+      "Sage X3",
+      "RFID",
+      "Microsoft Excel",
+      "Microsoft Office"
+    ],
+
+    "3pl": [
+      "3PL",
+      "third party logistics",
+      "outsourced logistics",
+      "contract logistics",
+      "logistics provider"
+    ]
+  },
+
+  "education": [
+    "MBA",
+    "Supply Chain Management",
+    "International Business Management",
+    "Bachelor"
+  ],
+
+  "preferred_industries": [
+    "manufacturing",
+    "food",
+    "consumer packaged goods",
+    "CPG",
+    "retail",
+    "distribution",
+    "logistics",
+    "transportation",
+    "warehouse",
+    "industrial",
+    "construction",
+    "mining",
+    "energy",
+    "healthcare"
+  ],
+
+  "location_preferences": {
+    "british_columbia": true,
+    "chilliwack_priority": true,
+    "calgary_radius_km": 70
+  },
+
+  "minimum_match_score": 60
+}
