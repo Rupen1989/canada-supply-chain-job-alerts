@@ -1,115 +1,17 @@
-{
-  "government": [
-    {
-      "name": "Government of Canada",
-      "type": "government",
-      "url": "https://www.canada.ca/en/services/jobs/opportunities.html"
-    },
-    {
-      "name": "BC Public Service",
-      "type": "government",
-      "url": "https://bcpublicservice.hua.hrsmart.com/hr/ats/JobSearch/index"
-    },
-    {
-      "name": "Government of Alberta",
-      "type": "government",
-      "url": "https://jobpostings.alberta.ca/go/All-Jobs/2609417/"
-    }
-  ],
-  "municipal": [
-    {
-      "name": "City of Vancouver",
-      "type": "municipal",
-      "url": "https://jobs.vancouver.ca/"
-    },
-    {
-      "name": "City of Calgary",
-      "type": "municipal",
-      "url": "https://www.calgary.ca/careers.html"
-    },
-    {
-      "name": "City of Surrey",
-      "type": "municipal",
-      "url": "https://www.surrey.ca/city-hall/careers"
-    },
-    {
-      "name": "City of Burnaby",
-      "type": "municipal",
-      "url": "https://www.burnaby.ca/our-city/careers"
-    },
-    {
-      "name": "City of Richmond",
-      "type": "municipal",
-      "url": "https://www.richmond.ca/city-hall/careers"
-    },
-    {
-      "name": "City of Chilliwack",
-      "type": "municipal",
-      "url": "https://www.chilliwack.com/main/page.cfm?id=2117"
-    },
-    {
-      "name": "City of Kelowna",
-      "type": "municipal",
-      "url": "https://www.kelowna.ca/city-hall/careers"
-    },
-    {
-      "name": "City of Victoria",
-      "type": "municipal",
-      "url": "https://www.victoria.ca/city-government/careers"
-    }
-  ],
-  "job_boards": [
-    {
-      "name": "Government of Canada Job Bank",
-      "type": "job_board",
-      "url": "https://www.jobbank.gc.ca/"
-    },
-    {
-      "name": "Indeed Canada",
-      "type": "job_board",
-      "url": "https://ca.indeed.com/"
-    },
-    {
-      "name": "LinkedIn Jobs",
-      "type": "job_board",
-      "url": "https://www.linkedin.com/jobs/"
-    },
-    {
-      "name": "Workopolis",
-      "type": "job_board",
-      "url": "https://www.workopolis.com/"
-    },
-    {
-      "name": "Glassdoor Canada",
-      "type": "job_board",
-      "url": "https://www.glassdoor.ca/Job/"
-    }
-  ],
-  "recruiters": [
-    {
-      "name": "Randstad Canada",
-      "type": "recruiter",
-      "url": "https://www.randstad.ca/jobs/"
-    },
-    {
-      "name": "Robert Half Canada",
-      "type": "recruiter",
-      "url": "https://www.roberthalf.com/ca/en/jobs"
-    },
-    {
-      "name": "Hays Canada",
-      "type": "recruiter",
-      "url": "https://www.hays.ca/jobs"
-    },
-    {
-      "name": "Michael Page Canada",
-      "type": "recruiter",
-      "url": "https://www.michaelpage.ca/jobs"
-    },
-    {
-      "name": "David Aplin Group",
-      "type": "recruiter",
-      "url": "https://www.aplin.com/jobs/"
-    }
-  ]
-}
+"government": [
+  {
+    "name": "Government of Canada",
+    "type": "government",
+    "url": "https://www.canada.ca/en/services/jobs/opportunities/government.html"
+  },
+  {
+    "name": "BC Public Service",
+    "type": "government",
+    "url": "https://www2.gov.bc.ca/gov/content/careers-myhr/job-seekers/current-job-postings"
+  },
+  {
+    "name": "Government of Alberta",
+    "type": "government",
+    "url": "https://www.alberta.ca/government-of-alberta-jobs"
+  }
+]
