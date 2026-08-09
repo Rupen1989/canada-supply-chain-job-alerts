@@ -1,0 +1,32 @@
+{
+  "british_columbia": {
+    "province": "BC",
+    "include_all_province": true,
+    "priority_cities": [
+      "Vancouver",
+      "Burnaby",
+      "Richmond",
+      "Surrey",
+      "Delta",
+      "Langley",
+      "Abbotsford",
+      "Chilliwack",
+      "Coquitlam",
+      "Port Coquitlam",
+      "Maple Ridge",
+      "New Westminster",
+      "North Vancouver",
+      "West Vancouver",
+      "Victoria",
+      "Nanaimo",
+      "Kelowna",
+      "Kamloops",
+      "Prince George"
+    ]
+  },
+  "alberta": {
+    "province": "AB",
+    "anchor_city": "Calgary",
+    "radius_km": 70
+  }
+}
